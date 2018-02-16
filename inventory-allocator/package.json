@@ -1,0 +1,14 @@
+{
+  "name": "inventory-allocator",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "mocha test/index.js --bail",
+    "lint": "eslint ./"
+  },
+  "dependencies": {
+    "bluebird": "^3.3.4",
+    "chai": "^3.2.0",
+    "mocha": "^2.2.5"
+  }
+}
