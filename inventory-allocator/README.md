@@ -1,4 +1,7 @@
-
+//Amandeep Sidhu Solution
+//The main class with the solution is inside inventory-allocator.js
+//To run the test I wrote simply do an npm install and then run the npm test script
+//Thank You 
 
 ### Problem
 
